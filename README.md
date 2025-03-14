@@ -1,6 +1,4 @@
 # <div align="center">I'm Nikunj Chauhan
-
-<img src="" style="width:20px"/>
 </div>
 
 <div style ="display:flex; justify-content:center; align-items:center;" align="center">
