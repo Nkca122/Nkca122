@@ -20,7 +20,7 @@
 
 ### - ❓ You can Email Me Through [Here](mailto:nkca122@gmail.com)
 
-#### <div align="center">⚡ Fun fact: My favourite character from Adventure Time is **Gunther** <img src="" style="width:20px"/></div>
+#### <div align="center">⚡ Fun fact: My favourite character from Adventure Time is **Gunther**</div>
 
 ## Tech Stack
 
@@ -108,10 +108,10 @@
 <a href="https://github.com/Nkca122" target="_blank">
 <img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/yuki-hime" target="_blank">
+<a href="https://www.linkedin.com/in/nikunj-chauhan-9781832b2/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.com/users/yourid" target="_blank">
+<a href="https://discord.com/users/_nikunj_chauhan_" target="_blank">
 <img src="https://img.shields.io/badge/discord-purple.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;" />
 </a>
 </div>  
